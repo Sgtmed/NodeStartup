@@ -89,4 +89,12 @@ Author: Dan Brost
 
 5. In terminal:
     * Type npm i -g now
-    
+6. Accessing elements of a website with Javascript
+    * i.e. go to https://www.chapters.indigo.ca/en-ca/books/you-dont-know-js-types/9781491904190-item.html?ikwid=you+dont+know+js&ikwsec=Home&ikwidx=0#algoliaQueryId=83ef34451eb881824d30e1c31bcf7235;
+    * Changing the image;
+    * Right click inspect;
+    * type document to view the content of the website;
+    * type document.body.textContent = "Hello World" (changes the entire body to Hello World);
+    * Other commands:
+      * var img = document.querySelector('.product-details__container');
+      * document.body (view the body of the website);
