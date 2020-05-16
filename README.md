@@ -7,6 +7,10 @@ Author: Dan Brost
 ###### 1. https://guides.github.com/features/mastering-markdown/ (Mastering Markdown);
 ###### 2. https://javascript.info/types (Javascript Data Types)
 ###### 3. https://github.com/danbrost?tab=repositories (Github);
+###### 4. http://johnny-five.io/ (Robotics and IoT Platform);
+###### 5. https://www.freecodecamp.org/learn/ (free code camp);
+###### 6. https://whatwebcando.today/ (features of what can be done with code);     
+
 <!--The following definitions taken from https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl -->
 * git config: 
   * Utility: To set your user name and email in the main configuration file.
@@ -85,3 +89,4 @@ Author: Dan Brost
 
 5. In terminal:
     * Type npm i -g now
+    
