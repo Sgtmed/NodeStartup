@@ -9,7 +9,8 @@ Author: Dan Brost
 ###### 3. https://github.com/danbrost?tab=repositories (Github);
 ###### 4. http://johnny-five.io/ (Robotics and IoT Platform);
 ###### 5. https://www.freecodecamp.org/learn/ (free code camp);
-###### 6. https://whatwebcando.today/ (features of what can be done with code);     
+###### 6. https://whatwebcando.today/ (features of what can be done with code);  
+###### 7. https://code.visualstudio.com/docs/editor/emmet (Emmet in VS code;)   
 
 <!--The following definitions taken from https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl -->
 * git config: 
@@ -65,6 +66,12 @@ Author: Dan Brost
   * How to: git remote to check and list. And git remote add <:remote_url.
 
 
+    * git init
+    * git add README.md
+    * git commit -m "first commit"
+    * git remote add origin https://GitRepoUrl.git
+    * git push -u origin master
+
 ###### 4. https://vercel.com;
 
 1. create README.md File
@@ -98,8 +105,11 @@ Author: Dan Brost
      * type document to view the content of the website;
     * type document.querySelector('.product-image__image')
       * var img = document.querySelector('.product-image__image');
-      * type img;
-      * type img.alt;
+      * img;
+      * img.alt;
       * img.classList;
       * img.src = "insert image url to change picture";
+      * etc.
     * document.body (view the body of the website);
+    7. Use script tags at the bottom of the _body_ or use ___script defer___ at the beginning of your code;
+  01 
