@@ -10,7 +10,10 @@ Author: Dan Brost
 ###### 4. http://johnny-five.io/ (Robotics and IoT Platform);
 ###### 5. https://www.freecodecamp.org/learn/ (free code camp);
 ###### 6. https://whatwebcando.today/ (features of what can be done with code);  
-###### 7. https://code.visualstudio.com/docs/editor/emmet (Emmet in VS code;)   
+###### 7. https://code.visualstudio.com/docs/editor/emmet (Emmet in VS code);
+###### 8. https://validator.w3.org/ (HTML Validation Service); 
+###### 9. https://flukeout.github.io/ (CSS Diner);
+###### 10. https://developer.mozilla.org/en-US/docs/Web/Events (Types of events);
 
 <!--The following definitions taken from https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl -->
 * git config: 
@@ -112,4 +115,4 @@ Author: Dan Brost
       * etc.
     * document.body (view the body of the website);
     7. Use script tags at the bottom of the _body_ or use ___script defer___ at the beginning of your code;
-  01 
+  
